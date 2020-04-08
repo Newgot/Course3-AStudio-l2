@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">l2-Калькулятор чаевых</string>
+    <string name="input_text">Введите текст</string>
+    <string name="enter_amount">Введите число</string>
+    <string name="tip">Чаевые</string>
+    <string name="total">Общая сумма</string>
+</resources>
